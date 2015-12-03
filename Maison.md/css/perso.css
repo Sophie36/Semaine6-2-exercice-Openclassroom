@@ -1,0 +1,14 @@
+﻿/*! Exercice pour le cours du Bootstrap */
+
+body {
+				background: #FFFFFF;
+				padding-top: 55px;
+}
+
+.perso {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
